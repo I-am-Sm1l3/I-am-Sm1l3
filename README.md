@@ -34,6 +34,11 @@ Currently in high school.</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=i-am-sm1l3&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="i-am-sm1l3 GitHub Stats" style="width: 45.0%;" />
 </p>
 
+<!-- Add Languages Used -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Sm1l3&layout=compact&theme=dark" alt="i-am-sm1l3 Languages" style="width: 40.0%;" />
+</p>
+
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
