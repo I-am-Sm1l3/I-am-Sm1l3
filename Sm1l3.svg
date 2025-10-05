@@ -5,7 +5,7 @@
       <stop offset="100%" style="stop-color:#d63031;stop-opacity:1" />
     </linearGradient>
 
-    <filter id="pulsatingGlow" x="-100%" y="-100%" width="300%" height="300%">
+    <filter id="binaryFlickerGlow" x="-100%" y="-100%" width="300%" height="300%">
       <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur1" />
       <feFlood flood-color="#ff4757" flood-opacity="1" result="color1"/>
       <feComposite in="color1" in2="blur1" operator="in" result="glow_effect1"/>
@@ -23,8 +23,8 @@
         <feFuncA type="linear" slope="1">
           <animate 
             attributeName="tableValues" 
-            values="0.3; 1.0; 0.3" 
-            dur="2.5s" 
+            values="1.0; 0.0; 1.0" 
+            dur="0.1s" 
             repeatCount="indefinite" 
           />
         </feFuncA>
@@ -37,8 +37,10 @@
     </filter>
 
     <g id="star">
-      <polygon points="6,0 7.5,4.5 12,4.5 8.25,7.5 9.75,12 6,9 2.25,12 3.75,7.5 0,4.5 4.5,4.5" fill="none" stroke="#FFFFFF" stroke-width="0.5">
+      <polygon points="6,0 7.5,4.5 12,4.5 8.25,7.5 9.75,12 6,9 2.25,12 3.75,7.5 0,4.5 4.5,4.5" fill="none" stroke-width="0.5">
          <animate attributeName="opacity" values="1; 0.4; 1" dur="1.5s" repeatCount="indefinite" begin="0s" />
+         <animate attributeName="stroke" values="#FFFFFF; #FF4757; #FFFFFF" dur="3s" repeatCount="indefinite" />
+         <animate attributeName="fill" values="none; #FF4757; none" dur="3s" repeatCount="indefinite" />
       </polygon>
     </g>
   </defs>
@@ -51,7 +53,7 @@
     font-weight="900" 
     text-anchor="middle" 
     fill="url(#redGradient)"
-    filter="url(#pulsatingGlow)"
+    filter="url(#binaryFlickerGlow)"
   >
     Sm1l3
   </text>
