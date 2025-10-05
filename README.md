@@ -28,13 +28,9 @@ Currently in high school.</h3>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=i-am-sm1l3&show_icons=true&locale=en&theme=dark" alt="i-am-sm1l3" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-sm1l3&theme=dark" alt="i-am-sm1l3" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=i-am-sm1l3&show_icons=true&locale=en&theme=dark" alt="i-am-sm1l3" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-sm1l3&theme=dark" alt="i-am-sm1l3" />
 </p>
-
-
-
-
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/sm1l3" target="blank">
