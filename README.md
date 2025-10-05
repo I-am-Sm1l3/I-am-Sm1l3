@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/I-am-Sm1l3/I-am-Sm1l3/main/Sm1l3.svg" alt="Sm1l3 Animated Header">
+  <img src="https://raw.githubusercontent.com/I-am-Sm1l3/I-am-Sm1l3/refs/heads/main/Sm1l3.svg" alt="Sm1l3 Animated Header">
 </p>
 <h3 align="center">A cybersecurity student.  
 Currently in high school.</h3>
