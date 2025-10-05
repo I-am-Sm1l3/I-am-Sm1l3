@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sm1l3</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/I-am-Sm1l3/I-am-Sm1l3/main/Sm1l3.svg" alt="Sm1l3 Animated Header">
+</p>
 <h3 align="center">A cybersecurity student.  
 Currently in high school.</h3>
 <h3 align="center">Languages & Tools:</h3>
