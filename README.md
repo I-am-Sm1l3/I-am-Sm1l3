@@ -27,11 +27,9 @@ Currently in high school.</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="40" alt="Atom"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sm1l3&theme=dark" alt="Sm1l3's GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Sm1l3&show_icons=true&locale=en&theme=dark&hide_border=true&count_private=true" alt="Sm1l3's GitHub Stats" />
-</p>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-sm1l3&theme=dark" alt="i-am-sm1l3" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=i-am-sm1l3&show_icons=true&locale=en&theme=dark" alt="i-am-sm1l3" />
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/sm1l3" target="blank">
