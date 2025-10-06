@@ -2,8 +2,11 @@
   <img src="https://raw.githubusercontent.com/I-am-Sm1l3/I-am-Sm1l3/refs/heads/main/Sm1l3.svg" alt="Sm1l3 Animated Header">
 </p>
 
+
 <h3 align="center">A cybersecurity student.  
 Currently in high school.</h3>
+
+---
 
 <h3 align="center">Languages & Tools:</h3>
 <p align="center">
@@ -31,16 +34,17 @@ Currently in high school.</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="40" alt="Atom"/>
 </p>
 
-<!-- Stats and Streak -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=I-am-Sm1l3&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="44.8%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=I-am-Sm1l3&theme=dark&hide_border=true" width="49%" />
-</div>
+---
+<!-- Start -->
 
-<!-- Top languages below -->
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Sm1l3&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=I-am-Sm1l3&theme=date_night&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=I-am-Sm1l3&theme=date_night&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Sm1l3&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+---
+
+<!-- End -->
+
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
