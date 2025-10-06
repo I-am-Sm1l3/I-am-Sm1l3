@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/I-am-Sm1l3/I-am-Sm1l3/refs/heads/main/Sm1l3.svg" alt="Sm1l3 Animated Header">
 </p>
+
 <h3 align="center">A cybersecurity student.  
 Currently in high school.</h3>
+
 <h3 align="center">Languages & Tools:</h3>
 <p align="center">
   <!-- Languages -->
@@ -29,16 +31,16 @@ Currently in high school.</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="40" alt="Atom"/>
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=i-am-sm1l3&theme=dark&hide_border=true" alt="i-am-sm1l3 GitHub Streak" style="width: 49.5%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=i-am-sm1l3&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="i-am-sm1l3 GitHub Stats" style="width: 45.0%;" />
-</p>
+<!-- Stats and Streak -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=I-am-Sm1l3&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="41%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=I-am-Sm1l3&theme=dark&hide_border=true" width="45%" />
+</div>
 
-<!-- Add Languages Used -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Sm1l3&layout=compact&theme=dark" alt="i-am-sm1l3 Languages" style="width: 40.0%;" />
-</p>
-
+<!-- Top languages below -->
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Sm1l3&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
