@@ -38,9 +38,18 @@ Currently in high school.</h3>
 <!-- Start -->
 
 # GitHub Stats:
-&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=I-am-Sm1l3&theme=date-night)](https://git.io/streak-stats)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub stats](https://github-readme-stats.vercel.app/api?username=I-am-Sm1l3&show_icons=true&theme=date_night)</br>
-&nbsp;&nbsp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Sm1l3&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+<p align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=I-am-Sm1l3&theme=date-night)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=I-am-Sm1l3&show_icons=true&theme=date_night)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Sm1l3&theme=date_night&hide_border=true&layout=compact)
+
+</p>
+
 
 <!-- End -->
 
