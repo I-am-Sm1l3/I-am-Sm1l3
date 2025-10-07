@@ -38,7 +38,6 @@ Currently in high school.</h3>
 <!-- Start -->
 
 # GitHub Stats:
-## 📊 GitHub Stats
 
 <div align="center">
 
