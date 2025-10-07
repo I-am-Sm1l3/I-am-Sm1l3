@@ -37,13 +37,29 @@ Currently in high school.</h3>
 ---
 <!-- Start -->
 
-# GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=I-am-Sm1l3&theme=date_night&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=I-am-Sm1l3&theme=date_night&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Sm1l3&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
----
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=I-am-Sm1l3&theme=date_night&hide_border=false" alt="GitHub Streak" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=I-am-Sm1l3&theme=date_night&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Sm1l3&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
+</div>
 
 <!-- End -->
+
 
 
 <h3 align="center">Connect with me</h3>
