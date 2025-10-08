@@ -41,7 +41,7 @@ Currently in high school.</h3>
 
 <div align="center">
 
-![I-am-Sm1l3's Stats](https://github-readme-stats.vercel.app/api?username=I-am-Sm1l3&theme=radical&show_icons=true&hide_border=true&count_private=false)
+![I-am-Sm1l3's Stats](https://github-readme-stats-three-xi-34.vercel.app//api?username=I-am-Sm1l3&theme=radical&show_icons=true&hide_border=true&count_private=false)
 
 </div>
 
@@ -53,7 +53,7 @@ Currently in high school.</h3>
 
   <div align="center">
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Sm1l3&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats-three-xi-34.vercel.app//api/top-langs/?username=I-am-Sm1l3&theme=radical&layout=compact)
 
 </div>
 
