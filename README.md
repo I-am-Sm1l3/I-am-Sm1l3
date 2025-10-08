@@ -53,7 +53,7 @@ Currently in high school.</h3>
 
   <div align="center">
     
-![Top Langs](https://github-readme-stats-three-xi-34.vercel.app//api/top-langs/?username=I-am-Sm1l3&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats-three-xi-34.vercel.app///api/top-langs/?username=I-am-Sm1l3&theme=radical&layout=compact)
 
 </div>
 
