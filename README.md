@@ -47,7 +47,7 @@ Currently in high school.</h3>
 
 <div align="center">
   
-![I-am-Sm1l3's Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-Sm1l3&theme=radical&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats-three-amber.vercel.app?user=I-am-Sm1l3&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
