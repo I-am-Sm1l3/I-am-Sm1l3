@@ -64,7 +64,6 @@ Currently in high school.</h3>
 
 
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sm1l3" height="30" width="40" />
+
   </a>
 </p>
