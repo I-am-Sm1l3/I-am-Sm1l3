@@ -34,7 +34,7 @@
 
 <!-- Start -->
 
-# GitHub Stats:
+<h3 align="center">GitHub Stats:</h3> 
 
 <div align="center">
 
