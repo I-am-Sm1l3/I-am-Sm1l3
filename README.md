@@ -3,8 +3,6 @@
 </p>
 
 
-<h3 align="center">A cybersecurity student.  
-Currently in high school.</h3>
 
 ---
 
