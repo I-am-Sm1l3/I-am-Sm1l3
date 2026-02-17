@@ -4,7 +4,6 @@
 
 
 
----
 
 <h3 align="center">Languages & Tools:</h3>
 <p align="center">
@@ -32,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="40" alt="Atom"/>
 </p>
 
----
+
 <!-- Start -->
 
 # GitHub Stats:
