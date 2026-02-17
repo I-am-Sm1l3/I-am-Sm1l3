@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">Languages & Tools:</h3>
+<h2 align="left">Languages & Tools:</h2>
 <p align="center">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
@@ -34,7 +34,7 @@
 
 <!-- Start -->
 
-<h3 align="center">GitHub Stats:</h3> 
+<h2 align="left">GitHub Stats:</h2> 
 
 <div align="center">
 
