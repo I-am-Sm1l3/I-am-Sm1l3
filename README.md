@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/TryHackMe-Sm1l3-9090ff?style=flat-square&logo=tryhackme&logoColor=white&labelColor=0d0d18&color=3a3a5c" alt="TryHackMe">
   </a>
   <a href="https://app.hackthebox.com/users/2067812">
-    <img src="https://img.shields.io/badge/HackTheBox-Sm1l3y--404-9090ff?style=flat-square&logo=hackthebox&logoColor=white&labelColor=0d0d18&color=3a3a5c" alt="HackTheBox">
+    <img src="https://img.shields.io/badge/HackTheBox-xSm1l3x-9090ff?style=flat-square&logo=hackthebox&logoColor=white&labelColor=0d0d18&color=3a3a5c" alt="HackTheBox">
   </a>
 </p>
 
