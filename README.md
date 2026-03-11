@@ -63,7 +63,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sm1l3y-404&style=flat-square&color=9090ff&labelColor=0d0d18&label=PROFILE+VIEWS" alt="Profile views">
 </p>
-
-<p align="center">
-  <sub><code>// All hail the almighty Shinx! //</code></sub>
-</p>
