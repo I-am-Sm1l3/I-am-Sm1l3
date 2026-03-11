@@ -26,26 +26,19 @@
 
 <h3 align="center"><code>[ GITHUB STATS ]</code></h3>
 
-<p align="center">
-  <img src="https://github-readme-stats-three-xi-34.vercel.app/api?username=Sm1l3y-404&theme=radical&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats" height="165">
-  &nbsp;
-  <img src="https://github-readme-stats-three-xi-34.vercel.app/api/top-langs/?username=Sm1l3y-404&theme=radical&layout=compact&hide_border=true" alt="Top Languages" height="165">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-three-xi-34.vercel.app/api?username=Sm1l3y-404&theme=radical&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats">
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats-three-amber.vercel.app?user=Sm1l3y-404&theme=radical&hide_border=true" alt="GitHub Streak">
   </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/I-am-Sm1l3/I-am-Sm1l3/refs/heads/main/separator.svg" width="100%">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-three-xi-34.vercel.app/api/top-langs/?username=Sm1l3y-404&theme=radical&layout=compact&hide_border=true" alt="Top Languages">
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sm1l3y-404&style=flat-square&color=9090ff&labelColor=0d0d18&label=PROFILE+VIEWS" alt="Profile views">
-</p>
 
-<p align="center">
-  <sub><code>// All hail the almighty Shinx! //</code></sub>
-</p>
+
