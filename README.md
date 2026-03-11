@@ -9,9 +9,6 @@
 <h3 align="center"><code>[ LINKS ]</code></h3>
 
 <p align="center">
-  <a href="https://github.com/Sm1l3y-404">
-    <img src="https://img.shields.io/badge/GitHub-Sm1l3y--404-9090ff?style=flat-square&logo=github&logoColor=white&labelColor=0d0d18&color=3a3a5c" alt="GitHub">
-  </a>
   <a href="https://tryhackme.com/p/Sm1l3">
     <img src="https://img.shields.io/badge/TryHackMe-Sm1l3-9090ff?style=flat-square&logo=tryhackme&logoColor=white&labelColor=0d0d18&color=3a3a5c" alt="TryHackMe">
   </a>
