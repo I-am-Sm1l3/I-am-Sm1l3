@@ -9,11 +9,11 @@
 <h3 align="center"><code>[ LINKS ]</code></h3>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/Sm1l3">
-    <img src="https://img.shields.io/badge/TryHackMe-Sm1l3-9090ff?style=flat-square&logo=tryhackme&logoColor=white&labelColor=0d0d18&color=3a3a5c" alt="TryHackMe">
+  <a href="https://tryhackme.com/p/w1ldfyre">
+    <img src="https://img.shields.io/badge/TryHackMe-w1ldfyre-9090ff?style=flat-square&logo=tryhackme&logoColor=white&labelColor=0d0d18&color=3a3a5c" alt="TryHackMe">
   </a>
   <a href="https://app.hackthebox.com/users/2067812">
-    <img src="https://img.shields.io/badge/HackTheBox-xSm1l3x-9090ff?style=flat-square&logo=hackthebox&logoColor=white&labelColor=0d0d18&color=3a3a5c" alt="HackTheBox">
+    <img src="https://img.shields.io/badge/HackTheBox-w1ldfyre-9090ff?style=flat-square&logo=hackthebox&logoColor=white&labelColor=0d0d18&color=3a3a5c" alt="HackTheBox">
   </a>
 </p>
 
@@ -24,17 +24,17 @@
 <h3 align="center"><code>[ GITHUB STATS ]</code></h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-three-xi-34.vercel.app/api?username=Sm1l3y-404&theme=radical&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats">
+  <img src="https://github-readme-stats-three-xi-34.vercel.app/api?username=w1ldfyre&theme=radical&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats">
 </div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-three-amber.vercel.app?user=Sm1l3y-404&theme=radical&hide_border=true" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats-three-amber.vercel.app?user=w1ldfyre&theme=radical&hide_border=true" alt="GitHub Streak">
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-three-xi-34.vercel.app/api/top-langs/?username=Sm1l3y-404&theme=radical&layout=compact&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats-three-xi-34.vercel.app/api/top-langs/?username=w1ldfyre&theme=radical&layout=compact&hide_border=true" alt="Top Languages">
 </div>
 
 
