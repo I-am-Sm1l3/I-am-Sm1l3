@@ -24,17 +24,17 @@
 <h3 align="center"><code>[ GITHUB STATS ]</code></h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-three-xi-34.vercel.app/api?username=w1ldfyre&theme=radical&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats">
+  <img src="https://github-readme-stats-three-xi-34.vercel.app/api?username=w1ldfyr3&theme=radical&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats">
 </div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-three-amber.vercel.app?user=w1ldfyre&theme=radical&hide_border=true" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats-three-amber.vercel.app?user=w1ldfyr3&theme=radical&hide_border=true" alt="GitHub Streak">
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-three-xi-34.vercel.app/api/top-langs/?username=w1ldfyre&theme=radical&layout=compact&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats-three-xi-34.vercel.app/api/top-langs/?username=w1ldfyr3&theme=radical&layout=compact&hide_border=true" alt="Top Languages">
 </div>
 
 
